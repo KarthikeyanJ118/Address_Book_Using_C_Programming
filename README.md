@@ -124,11 +124,7 @@ Jane Smith,9123456780,jane@gmail.com
 
 ## 👨‍💻 Author
 
-**Mohammed Shaqeeb**
+**Karthikeyan J**
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use for learning purposes.
 
